@@ -2,14 +2,14 @@
 
 SafeMedicine é uma aplicação web desenvolvida durante a Hackatona de Engenharia de Software de 2023 da PUCRS. A aplicação oferece aos médicos uma ferramenta para realizar uma segunda checagem de diagnósticos, permitindo que eles insiram prontuários, sintomas e suspeitas de problemas no chat, para receber uma análise adicional.
 
-## Desenvolvido por:
+## Desenvolvido por
 
-### Bruno de Sá Bolzan
-### Brenda Pereira
-### Eduardo Garcia
-### João Schwingel
-### Lazaro Maciel
-### Gustavo Vidaletti
+- Bruno de Sá Bolzan
+- Brenda Pereira
+- Eduardo Garcia
+- João Schwingel
+- Lazaro Maciel
+- Gustavo Vidaletti
 
 ## Tecnologias Utilizadas
 
