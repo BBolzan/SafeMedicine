@@ -4,12 +4,12 @@ SafeMedicine é uma aplicação web desenvolvida durante a Hackatona de Engenhar
 
 ## Desenvolvido por:
 
-Bruno de Sá Bolzan
-Brenda Pereira
-Eduardo Garcia
-João Schwingel
-Lazaro Maciel
-Gustavo Vidaletti
+### Bruno de Sá Bolzan
+### Brenda Pereira
+### Eduardo Garcia
+### João Schwingel
+### Lazaro Maciel
+### Gustavo Vidaletti
 
 ## Tecnologias Utilizadas
 
